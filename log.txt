@@ -1,0 +1,35 @@
+commit fcd0940d443d6c27b8b2ccf0157f223aec83bd85
+Author: mzimmerman5 <mzimmerman@mymail.mines.edu>
+Date:   Tue Feb 18 20:31:34 2020 -0700
+
+    Turnin' up the volume-- changing the meow to all caps
+
+commit f8a3b58a97d455a5d7bd484fd46e40969018593b
+Author: Sophia Collins <scollins1@mymail.mines.edu>
+Date:   Tue Feb 18 20:27:23 2020 -0700
+
+    Kirby Cat
+
+commit a06fd0ea2392a4088108cb924b100a26fea426ac
+Author: mzimmerman5 <mzimmerman@mymail.mines.edu>
+Date:   Tue Feb 18 20:23:21 2020 -0700
+
+    Made the eyes bigger
+
+commit c4a98d3e961447faf91d9c1c4c65dd1cdd83e780
+Author: Sophia Collins <scollins1@mymail.mines.edu>
+Date:   Tue Feb 18 20:16:27 2020 -0700
+
+    Giant Cat
+
+commit bc77c9ff64bdad72fb5e50a56dc6a55a231ad78c
+Author: mzimmerman5 <mzimmerman@mymail.mines.edu>
+Date:   Thu Feb 13 13:32:51 2020 -0700
+
+    Files have been added
+
+commit e2c45a1128508ca107e8a801b11fa81c422c7e5a
+Author: mzimmerman5 <61027447+mzimmerman5@users.noreply.github.com>
+Date:   Thu Feb 13 12:55:20 2020 -0700
+
+    Initial commit
